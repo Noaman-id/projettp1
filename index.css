@@ -1,0 +1,27 @@
+h1{
+    font-size: medium ;
+    font-family:'Courier New', Courier, monospace ;
+    font-weight: bold ;
+    font-style: italic;
+    color: brown;
+    margin: 10px ;
+    text-align: center;
+}
+h2{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+    color: blue;
+    margin: 10px ;
+    text-align: center;
+}
+h3{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+    color: blueviolet;
+    margin: 10px;
+    text-align: center;
+}
